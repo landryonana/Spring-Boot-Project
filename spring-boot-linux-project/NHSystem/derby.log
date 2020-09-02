@@ -1,0 +1,64 @@
+----------------------------------------------------------------
+Sun Oct 20 16:43:28 WAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-e9d6-7215-0000048451c0 
+on database directory memory:/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/home/jesus-christ/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~16.04.1-b10
+user.dir=/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 20 16:56:06 WAT 2019:
+Shutting down instance a816c00e-016d-e9d6-7215-0000048451c0 on database directory memory:/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+----------------------------------------------------------------
+Sun Oct 20 16:56:09 WAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3ea3c0fb-016d-e9d6-7215-0000048451c0 
+on database directory memory:/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/home/jesus-christ/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~16.04.1-b10
+user.dir=/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 20 16:57:09 WAT 2019:
+Shutting down instance 3ea3c0fb-016d-e9d6-7215-0000048451c0 on database directory memory:/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+----------------------------------------------------------------
+Sun Oct 20 16:57:11 WAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 278b81cd-016d-e9d6-7215-0000048451c0 
+on database directory memory:/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/home/jesus-christ/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~16.04.1-b10
+user.dir=/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 20 16:58:10 WAT 2019:
+Shutting down instance 278b81cd-016d-e9d6-7215-0000048451c0 on database directory memory:/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+----------------------------------------------------------------
+Sun Oct 20 16:58:13 WAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a4c782ad-016d-e9d6-7215-0000048451c0 
+on database directory memory:/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/home/jesus-christ/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~16.04.1-b10
+user.dir=/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 20 16:58:17 WAT 2019:
+Shutting down instance a4c782ad-016d-e9d6-7215-0000048451c0 on database directory memory:/media/jesus-christ/G/LINX/spring-boot-linux-project/NHSystem/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
